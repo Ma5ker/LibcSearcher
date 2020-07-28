@@ -4,9 +4,13 @@
 ## 安装
 
 ```shell
-git clone https://github.com/Ma5ker/LibcSearcher.git
+#install module
+git clone --recursive https://github.com/Ma5ker/LibcSearcher.git
 cd LibcSearcher
 python setup.py develop
+#download libc file
+cd libc-database
+./get
 ```
 
 ## 示例
