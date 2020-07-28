@@ -1,5 +1,5 @@
 # LibcSearcher
-整理下项目 [lieanu/LibcSearcher](https://github.com/lieanu/LibcSearcher)，更新一下部分代码
+此项目整理自项目 [lieanu/LibcSearcher](https://github.com/lieanu/LibcSearcher)，仅更新部分代码。
 
 ## 安装
 
